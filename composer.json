@@ -1,5 +1,5 @@
 {
-    "name": "vladnegura/ebay-api-bundle",
+    "name": "webconsul/ebay-api-bundle",
     "type": "symfony-bundle",
     "description": "Wrapper for eBay API. Bundle for Symfony2",
     "keywords": ["ebay", "api", "shopping", "finding", "trading"],
